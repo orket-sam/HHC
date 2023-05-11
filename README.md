@@ -1,2 +1,2 @@
 # HHC
-Dart hot hour of code
+Coding challenges solved in Dart.
